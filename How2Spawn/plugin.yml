@@ -1,0 +1,8 @@
+name: How2Spawn
+version: 1.0
+author: ToujoursTitou
+main: fr.titou.How2Spawn.Main
+commands:
+  spawn:
+    description: teleport the player to a defined location
+    permission: tp.use
